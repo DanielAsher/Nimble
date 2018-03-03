@@ -287,6 +287,7 @@
 		347155CA1C337C8900549F03 /* XCTestCaseProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 347155C91C337C8900549F03 /* XCTestCaseProvider.swift */; };
 		347155CB1C337C8900549F03 /* XCTestCaseProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 347155C91C337C8900549F03 /* XCTestCaseProvider.swift */; };
 		347155CC1C337C8900549F03 /* XCTestCaseProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 347155C91C337C8900549F03 /* XCTestCaseProvider.swift */; };
+		36CFA2E3204AB93A002830B2 /* SatisfyAllOf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CFA2E2204AB93A002830B2 /* SatisfyAllOf.swift */; };
 		472FD1351B9E085700C7B8DA /* HaveCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 472FD1341B9E085700C7B8DA /* HaveCount.swift */; };
 		472FD1391B9E0A9700C7B8DA /* HaveCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 472FD1341B9E085700C7B8DA /* HaveCount.swift */; };
 		472FD13A1B9E0A9F00C7B8DA /* HaveCountTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 472FD1361B9E094B00C7B8DA /* HaveCountTest.swift */; };
@@ -576,6 +577,7 @@
 		29EA59621B551ED2002D767E /* ThrowErrorTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThrowErrorTest.swift; sourceTree = "<group>"; };
 		29EA59651B551EE6002D767E /* ThrowError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThrowError.swift; sourceTree = "<group>"; };
 		347155C91C337C8900549F03 /* XCTestCaseProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XCTestCaseProvider.swift; sourceTree = "<group>"; };
+		36CFA2E2204AB93A002830B2 /* SatisfyAllOf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SatisfyAllOf.swift; sourceTree = "<group>"; };
 		472FD1341B9E085700C7B8DA /* HaveCount.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HaveCount.swift; sourceTree = "<group>"; };
 		472FD1361B9E094B00C7B8DA /* HaveCountTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HaveCountTest.swift; sourceTree = "<group>"; };
 		4793854C1BA0BB2500296F85 /* ObjCHaveCount.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjCHaveCount.m; sourceTree = "<group>"; };
@@ -853,6 +855,7 @@
 				1FCF91521C61C8A400B15DCB /* PostNotification.swift */,
 				1FA0C3FE1E30B14500623165 /* Predicate.swift */,
 				1FD8CD1E1968AB07008ED995 /* RaisesException.swift */,
+				36CFA2E2204AB93A002830B2 /* SatisfyAllOf.swift */,
 				7B5358BD1C38479700A23FAA /* SatisfyAnyOf.swift */,
 				964CFEFC1C4FF48900513336 /* ThrowAssertion.swift */,
 				29EA59651B551EE6002D767E /* ThrowError.swift */,
@@ -1616,6 +1619,7 @@
 				1FD8CD4B1968AB07008ED995 /* BeIdenticalTo.swift in Sources */,
 				1FD8CD431968AB07008ED995 /* BeEmpty.swift in Sources */,
 				1F1871D41CA89EEE00A34BF2 /* NMBStringify.m in Sources */,
+				36CFA2E3204AB93A002830B2 /* SatisfyAllOf.swift in Sources */,
 				1FD8CD531968AB07008ED995 /* BeNil.swift in Sources */,
 				1FD8CD6B1968AB07008ED995 /* Async.swift in Sources */,
 				CDFB6A231F7E07C700AD8CC7 /* CwlCatchException.swift in Sources */,
